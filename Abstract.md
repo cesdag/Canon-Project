@@ -8,4 +8,3 @@ Our canon will be focusing on the pros and cons of free trade for developing cou
 - Until what extent does free trade blocks higher technology industrialization in subdeveloped and developing countries?
 - Can developing countries use exchange rates as an instrument to improve their competitiveness, and therefore growth?
 
-example
