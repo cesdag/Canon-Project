@@ -41,3 +41,5 @@ UN report on the role of FDI on economic development in Africa (obviously). I'd 
 [More UN reports on trade](https://www.globalpolicy.org/social-and-economic-policy/international-trade-and-development-1-57/unctad.html)
 
 http://www.ingentaconnect.com/content/aea/jel/2010/00000048/00000003/art00002
+
+[Ricardian Model](http://www-personal.umich.edu/~alandear/courses/441/handouts/Deardorff-RicardianModel.pdf)
