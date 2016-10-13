@@ -36,3 +36,6 @@ Long paper on the case of India. Possibly useful as a reference.
 [Mexico case](https://www.kent.ac.uk/economics/documents/research/papers/2004/0403.pdf)
 paper on the case of Mexico, where trade liberalization apparently did not work out very well
 
+[FDI in Africa (2005)](https://www.globalpolicy.org/images/pdfs/unctadreport.pdf)
+UN report on the role of FDI on economic development in Africa (obviously). I'd suggest a look at box 2, section B3 and section D.
+[More UN reports on trade](https://www.globalpolicy.org/social-and-economic-policy/international-trade-and-development-1-57/unctad.html)
