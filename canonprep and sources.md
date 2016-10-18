@@ -24,17 +24,44 @@ Development-specific
 
 Source Material
 ---------------
-[Ten Problems with Free Trade](http://economyincrisis.org/content/ten-problems-free-trade)
-This gives an overview of the arguments against free-trade. Just read the thematic sentences in bold; most of them look into the eligibility of Ricardo's theory.
+**Section 1: Basic models**
 
-[The Importance of Trade Liberalization for Developing Countries](http://www.cipe.org/blog/2013/08/05/the-importance-of-trade-liberalization-for-developing-countries/#.V_j1P-h96hc)
-Clearly pro-free trade article with a nice explanation of comparative advantage and some references to possibly useful articles. References to the cases of Chile and Bolivia. Focus on developing countries
+[Do free trade agreements actually increase members' international trade?](http://www.sciencedirect.com/science/article/pii/S0022199606000596)
+
+**Section 2: advanced models**
+
+**Section 3: "pro" cases and studies"**
 
 [Trade liberalisation and firm productivity, case of India](https://www.imf.org/external/pubs/ft/wp/2004/wp0428.pdf)
 Long paper on the case of India. Possibly useful as a reference.
 
+**[Stylized Facts for trade liberalization](https://beingclassicallyliberal.liberty.me/the-empirical-case-for-free-trade/)**
+(i) Some interesting graphs and tables that give us an overview of the stylized facts. Many pro-trade arguments with references to other studies.
+
+*Does free trade stimulate economic growth in developing countries?*
+- Jeffrey Frankel and David Romer -  "Does Trade Cause Growth", American Economic Review, June 1999. https://www.aeaweb.org/articles?id=10.1257/aer.89.3.379
+Examine the effects of trade on income. A rise of 1% in the ratio of trade to GDP increases income per person by at least 0.5%. “Trade appears to raise income by spurring the accumulation of physical and human capital and by increasing output for given levels of capital”. Similar result can be observed from within-country trade. The data is from the IFS Direction of Trade statistics for 1985, and cover trade among 63 countries. [Feyrer (2009)](http://www.nber.org/papers/w15557) finds similar results (from stylized facts)
+
+**Section 4: "con" cases and studies**
+
 [Mexico case](https://www.kent.ac.uk/economics/documents/research/papers/2004/0403.pdf)
 paper on the case of Mexico, where trade liberalization apparently did not work out very well
+
+[Ten Problems with Free Trade](http://economyincrisis.org/content/ten-problems-free-trade)
+This gives an overview of the arguments against free-trade. Just read the thematic sentences in bold; most of them look into the eligibility of Ricardo's theory.
+
+First three are good points, I (Joep) think (third may not be so appropriate for developing countries). I do find the source very questionable
+
+[Trade and income inequality in developing countries](http://www.sciencedirect.com/science/article/pii/S0305750X08002222)
+Paper studying empirical evidence of increasing income inequality in developing countries as a result of liberalized trade. Also discusses the link to theory, the predictions of the Hecksher-Ohlin model and the Stolper-Samuelson effect.
+
+Above paper draws (at first sight) the exact oposite conclusion as [Measuring the Unequal Gains from Trade](https://www0.gsb.columbia.edu/faculty/akhandelwal/papers/mugft_FINAL.pdf). Might be worth looking into.
+
+***
+
+
+[The Importance of Trade Liberalization for Developing Countries](http://www.cipe.org/blog/2013/08/05/the-importance-of-trade-liberalization-for-developing-countries/#.V_j1P-h96hc)
+Clearly pro-free trade article with a nice explanation of comparative advantage and some references to possibly useful articles. References to the cases of Chile and Bolivia. Focus on developing countries
 
 [FDI in Africa (2005)](https://www.globalpolicy.org/images/pdfs/unctadreport.pdf)
 UN report on the role of FDI on economic development in Africa (obviously). I'd suggest a look at box 2, section B3 and section D.
@@ -44,9 +71,6 @@ http://www.ingentaconnect.com/content/aea/jel/2010/00000048/00000003/art00002
 
 [Ricardian Model](http://www-personal.umich.edu/~alandear/courses/441/handouts/Deardorff-RicardianModel.pdf)
 
-*Does free trade stimulate economic growth in developing countries?*
-- Jeffrey Frankel and David Romer -  "Does Trade Cause Growth", American Economic Review, June 1999. https://www.aeaweb.org/articles?id=10.1257/aer.89.3.379
-Examine the effects of trade on income. A rise of 1% in the ratio of trade to GDP increases income per person by at least 0.5%. “Trade appears to raise income by spurring the accumulation of physical and human capital and by increasing output for given levels of capital”. Similar result can be observed from within-country trade. The data is from the IFS Direction of Trade statistics for 1985, and cover trade among 63 countries.
 - Steven Matusz and David Tarr - "Adjusting to Trade Policy Reform", World Bank Policy Research Working Paper No. 2142, July 1999.
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.606.5129&rep=rep1&type=pdf 
 Impact of trade liberalization in developing countries: manufacturing employment increased (except for transition economies, where employment decreased at a slower rate than the ones without trade liberalization), private costs are mostly small, fiscal deficits and inflation decreased.
@@ -80,5 +104,4 @@ http://www.technologyandpolicy.org/2015/06/11/the-benefits-of-africas-new-free-t
 (v) The signal of larger markets will also help to stimulate trade in services. The first beneficiary is likely to be the financial sector, which will be able to lend to larger industrialists seeking to benefit from economies of scale
 (vi) Small African countries will no longer be restricted to producing their traditional products.”
 
-[Stylized Facts for trade liberalization](https://beingclassicallyliberal.liberty.me/the-empirical-case-for-free-trade/)
-(i) Some interesting graphs and tables that give us an overview of the stylized facts.
+
