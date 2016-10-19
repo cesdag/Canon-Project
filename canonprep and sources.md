@@ -33,6 +33,8 @@ Source Material
 [Helping infant economies grow](http://www.jstor.org/stable/30034630?seq=1#page_scan_tab_contents)
 Interesting theory and easy to grasp. Maybe we can build on this as I find the conclusion/assumptions rather strong.
 
+[Rich and Poor Countries in Neoclassical Trade and Growth](http://onlinelibrary.wiley.com/doi/10.1111/1468-0297.00608/abstract) for if we want to include the Solow model, this is an extension. Not straightforward, though I think the conclusion/intuition could be.
+
 **Section 3: "pro" cases and studies"**
 
 [Trade liberalisation and firm productivity, case of India](https://www.imf.org/external/pubs/ft/wp/2004/wp0428.pdf)
@@ -106,4 +108,3 @@ http://www.technologyandpolicy.org/2015/06/11/the-benefits-of-africas-new-free-t
 (iv) The prospects for the larger markets and supporting infrastructure will spur industrial development
 (v) The signal of larger markets will also help to stimulate trade in services. The first beneficiary is likely to be the financial sector, which will be able to lend to larger industrialists seeking to benefit from economies of scale
 (vi) Small African countries will no longer be restricted to producing their traditional products.”
-
