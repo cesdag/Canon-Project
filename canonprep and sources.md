@@ -26,6 +26,12 @@ Source Material
 ---------------
 **Section 1: Basic models**
 
+_Comparative advantage_
+
+_Heckscher-Ohlin_
+
+_New trade theory_
+
 [Do free trade agreements actually increase members' international trade?](http://www.sciencedirect.com/science/article/pii/S0022199606000596)
 
 **Section 2: advanced models**
