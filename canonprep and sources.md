@@ -28,6 +28,9 @@ Source Material
 
 _Comparative advantage_
 
+[Ricardian Model](http://www-personal.umich.edu/~alandear/courses/441/handouts/Deardorff-RicardianModel.pdf)
+Full explanation of the Ricardian model with some extensions
+
 _Heckscher-Ohlin_
 
 _New trade theory_
@@ -79,8 +82,6 @@ UN report on the role of FDI on economic development in Africa (obviously). I'd 
 [More UN reports on trade](https://www.globalpolicy.org/social-and-economic-policy/international-trade-and-development-1-57/unctad.html)
 
 http://www.ingentaconnect.com/content/aea/jel/2010/00000048/00000003/art00002
-
-[Ricardian Model](http://www-personal.umich.edu/~alandear/courses/441/handouts/Deardorff-RicardianModel.pdf)
 
 - Steven Matusz and David Tarr - "Adjusting to Trade Policy Reform", World Bank Policy Research Working Paper No. 2142, July 1999.
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.606.5129&rep=rep1&type=pdf 
