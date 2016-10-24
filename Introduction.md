@@ -1,6 +1,6 @@
 That the benefits of opening up to trade are subject to discussion, is becoming 
 increasingly clear with controversy arising around free trade agreements such as 
-TTIP, CETA and TPP in the US. While elementary economic theory is quite clear in 
+TTIP, CETA in Europe, and TPP in the US. While elementary economic theory is quite clear in 
 stating that free trade is good for everyone, if only to increase economic efficiency. 
 But as with any theory, the question should be asked whether this can actually be 
 observed in practice. Perhaps more sophisticated theories might better capture the 
